@@ -1,2 +1,2 @@
-# CODSOFT-
-Data Science Tasks/projects 
+# Data Science
+
